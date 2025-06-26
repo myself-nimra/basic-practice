@@ -1,6 +1,6 @@
 # basic-practice
 this is my first practice on git-hub
-<hr>
+<br>
 author : NIMRA
-<hr>
-to add a new line we have ro write <hr>
+<br>
+to add a new line we have to write <br>
